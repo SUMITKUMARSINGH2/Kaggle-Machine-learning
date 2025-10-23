@@ -49,4 +49,4 @@ I’ll be adding notebooks here **daily**, each with the following structure:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/Kaggle-Machine-learning.git
+   git clone https://github.com/SUMITKUMARSINGH2/Kaggle-Machine-learning.git
